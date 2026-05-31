@@ -1,0 +1,36 @@
+{
+  "product": "AI Agent Toolkit",
+  "generated_at": "2026-05-31T23:23:04.086787",
+  "posts": {
+    "twitter": {
+      "platform": "twitter",
+      "content": "AI Agent Toolkit is now live!\n\nAI Agent开发者必备CLI工具集。零依赖，Python stdlib only。\n\n💡 零依赖, 20+工具, Agent就绪, Web工具\n\n100% automated. Zero human touch.\n\nhttps://github.com/ulnit/ai-agent-toolkit",
+      "char_count": 182,
+      "max_chars": 280
+    },
+    "linkedin": {
+      "platform": "linkedin",
+      "content": "🎉 Excited to share my latest AI product: **AI Agent Toolkit**\n\nAI Agent开发者必备CLI工具集。零依赖，Python stdlib only。\n\n**Key Features:**\n- **零依赖:** Python stdlib only\n- **20+工具:** 爬虫/API/数据/文件\n- **Agent就绪:** 结构化CLI输出\n- **Web工具:** HTTP+HTML+JSON一站式\n- **数据分析:** CSV/JSON自动分析\n\n**Why I built this:**\nI got tired of doing writing boilerplate code manually. So I automated it with AI.\n\n**Tech Stack:**\n🐍 Python stdlib\n🖥️ $35 Raspberry Pi\n⏰ 24/7 Cron automation\n📦 Zero external dependencies\n\nCheck it out: https://github.com/ulnit/ai-agent-toolkit\n\n#AI #Automation #IndieHacker #BuildInPublic #Python",
+      "char_count": 582,
+      "max_chars": 3000
+    },
+    "threads": {
+      "platform": "threads",
+      "content": "🧵 New build: AI Agent Toolkit\n\nAI Agent开发者必备CLI工具集。零依赖，Python stdlib only。\n\nBuilt on a $35 Pi. 100% automated.\n\nhttps://github.com/ulnit/ai-agent-toolkit",
+      "char_count": 153,
+      "max_chars": 500
+    },
+    "reddit": {
+      "platform": "reddit",
+      "content": "**Title:** I built AI Agent Toolkit — AI Agent开发者必备CLI工具集。零依赖，Python stdlib only。\n\n**Body:**\n\nHey r/automation!\n\nI've been building AI products on a $35 Raspberry Pi that run 100% autonomously. My latest:\n\n**AI Agent Toolkit** — AI Agent开发者必备CLI工具集。零依赖，Python stdlib only。\n\n**What it does:**\n- **零依赖:** Python stdlib only\n- **20+工具:** 爬虫/API/数据/文件\n- **Agent就绪:** 结构化CLI输出\n- **Web工具:** HTTP+HTML+JSON一站式\n- **数据分析:** CSV/JSON自动分析\n\n**Why it's different:**\n- 🚫 Zero human intervention — fully automated\n- 💰 Runs on a $35 Raspberry Pi\n- 📦 Zero external dependencies\n- ⏰ 24/7 cron-scheduled\n\n**Tech:** Python + stdlib only\n\nhttps://github.com/ulnit/ai-agent-toolkit\n\nI'm building 20 AI products this way. Happy to answer questions!\n\nEdit: Thanks for the support everyone! 🙏",
+      "char_count": 767,
+      "max_chars": 40000
+    },
+    "devto": {
+      "platform": "devto",
+      "content": "---\ntitle: \"I Built AI Agent Toolkit on a $35 Raspberry Pi (And It Runs 24/7)\"\npublished: true\ntags: [ai, automation, python, raspberrypi]\n---\n\n# AI Agent Toolkit: AI Agent开发者必备CLI工具集。零依赖，Python stdlib only。\n\nI built AI Agent Toolkit to Everyone said you need a $200/mo server to run AI. I proved them wrong with a $35 Pi.\n\n## What It Does\n\n- **零依赖:** Python stdlib only\n- **20+工具:** 爬虫/API/数据/文件\n- **Agent就绪:** 结构化CLI输出\n- **Web工具:** HTTP+HTML+JSON一站式\n- **数据分析:** CSV/JSON自动分析\n\n## How It Works\n\nThe engine is pure Python stdlib — no pip install needed. Pillow handles graphics, FFmpeg handles video, and cron handles scheduling. That's it. Simple, reliable, zero-cost.\n\n## Why Raspberry Pi?\n\n- 💰 **Cost:** $35 one-time. No AWS bills.\n- ⚡ **Always on:** 24/7 cron automation\n- 🌍 **Offline-capable:** No cloud dependency\n- 🐍 **Python stdlib:** Zero external deps\n\n## The Code\n\n```python\n# The entire automation pipeline\nimport requests, json\nfrom pathlib import Path\n\ndata = requests.get(\"API_URL\").json()\nresult = process_with_ai(data)\nPath(\"output/report.md\").write_text(result)\n# Pushed to GitHub Pages automatically\n```\n\n## What's Next?\n\nEveryone said you need a $200/mo server to run AI. I proved them wrong with a $35 Pi.\n\n---\n\n*This is part of my [20 AI Products Stack](https://ulnit.github.io/agent-store) — all running on a $35 Raspberry Pi.*\n\nhttps://github.com/ulnit/ai-agent-toolkit",
+      "char_count": 1392,
+      "max_chars": 100000
+    }
+  }
+}

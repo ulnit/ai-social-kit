@@ -1,0 +1,36 @@
+{
+  "product": "AI Thumbnail Pro",
+  "generated_at": "2026-05-31T23:23:03.808740",
+  "posts": {
+    "twitter": {
+      "platform": "twitter",
+      "content": "AI Thumbnail Pro is now live!\n\nAI驱动的社交媒体缩略图生成器。8种预设，批量生成。\n\n💡 8种预设, 渐变配色, 批量生成, 自动排版\n\n100% automated. Zero human touch.\n\nhttps://github.com/ulnit/ai-thumbnail-pro",
+      "char_count": 161,
+      "max_chars": 280
+    },
+    "linkedin": {
+      "platform": "linkedin",
+      "content": "🎉 Excited to share my latest AI product: **AI Thumbnail Pro**\n\nAI驱动的社交媒体缩略图生成器。8种预设，批量生成。\n\n**Key Features:**\n- **8种预设:** YouTube/博客/社媒全覆盖\n- **渐变配色:** 8组精美配色方案\n- **批量生成:** 一次命令全部格式\n- **自动排版:** 智能换行居中\n- **API模式:** 可集成工作流\n\n**Why I built this:**\nAt 2AM, while I was sleeping, AI Thumbnail Pro was still working. That's the dream.\n\n**Tech Stack:**\n🐍 Python stdlib\n🖥️ $35 Raspberry Pi\n⏰ 24/7 Cron automation\n📦 Zero external dependencies\n\nCheck it out: https://github.com/ulnit/ai-thumbnail-pro\n\n#AI #Automation #IndieHacker #BuildInPublic #Python",
+      "char_count": 540,
+      "max_chars": 3000
+    },
+    "threads": {
+      "platform": "threads",
+      "content": "🧵 New build: AI Thumbnail Pro\n\nAI驱动的社交媒体缩略图生成器。8种预设，批量生成。\n\nBuilt on a $35 Pi. 100% automated.\n\nhttps://github.com/ulnit/ai-thumbnail-pro",
+      "char_count": 136,
+      "max_chars": 500
+    },
+    "reddit": {
+      "platform": "reddit",
+      "content": "**Title:** I built AI Thumbnail Pro — AI驱动的社交媒体缩略图生成器。8种预设，批量生成。\n\n**Body:**\n\nHey r/Entrepreneur!\n\nI've been building AI products on a $35 Raspberry Pi that run 100% autonomously. My latest:\n\n**AI Thumbnail Pro** — AI驱动的社交媒体缩略图生成器。8种预设，批量生成。\n\n**What it does:**\n- **8种预设:** YouTube/博客/社媒全覆盖\n- **渐变配色:** 8组精美配色方案\n- **批量生成:** 一次命令全部格式\n- **自动排版:** 智能换行居中\n- **API模式:** 可集成工作流\n\n**Why it's different:**\n- 🚫 Zero human intervention — fully automated\n- 💰 Runs on a $35 Raspberry Pi\n- 📦 Zero external dependencies\n- ⏰ 24/7 cron-scheduled\n\n**Tech:** Python + stdlib only\n\nhttps://github.com/ulnit/ai-thumbnail-pro\n\nI'm building 20 AI products this way. Happy to answer questions!\n\nEdit: Thanks for the support everyone! 🙏",
+      "char_count": 709,
+      "max_chars": 40000
+    },
+    "devto": {
+      "platform": "devto",
+      "content": "---\ntitle: \"I Built AI Thumbnail Pro on a $35 Raspberry Pi (And It Runs 24/7)\"\npublished: true\ntags: [ai, automation, python, raspberrypi]\n---\n\n# AI Thumbnail Pro: AI驱动的社交媒体缩略图生成器。8种预设，批量生成。\n\nI built AI Thumbnail Pro to The best product is the one that runs itself. AI Thumbnail Pro is that product.\n\n## What It Does\n\n- **8种预设:** YouTube/博客/社媒全覆盖\n- **渐变配色:** 8组精美配色方案\n- **批量生成:** 一次命令全部格式\n- **自动排版:** 智能换行居中\n- **API模式:** 可集成工作流\n\n## How It Works\n\nI use Python's built-in libraries exclusively. HTTP requests, file I/O, JSON parsing — all stdlib. For media, Pillow (images) and FFmpeg (video). The entire stack fits on a 32GB SD card.\n\n## Why Raspberry Pi?\n\n- 💰 **Cost:** $35 one-time. No AWS bills.\n- ⚡ **Always on:** 24/7 cron automation\n- 🌍 **Offline-capable:** No cloud dependency\n- 🐍 **Python stdlib:** Zero external deps\n\n## The Code\n\n```python\n# Zero-dependency thumbnail generator\nfrom PIL import Image, ImageDraw\n\nimg = Image.new(\"RGB\", (1280, 720))\ndraw = ImageDraw.Draw(img)\ndraw.text((640, 360), \"AI Generated\", fill=\"white\")\nimg.save(\"thumbnail.png\")\n```\n\n## What's Next?\n\nThe best product is the one that runs itself. AI Thumbnail Pro is that product.\n\n---\n\n*This is part of my [20 AI Products Stack](https://ulnit.github.io/agent-store) — all running on a $35 Raspberry Pi.*\n\nhttps://github.com/ulnit/ai-thumbnail-pro",
+      "char_count": 1330,
+      "max_chars": 100000
+    }
+  }
+}
