@@ -1,0 +1,36 @@
+{
+  "product": "AI Video Factory",
+  "generated_at": "2026-05-31T23:22:35.948301",
+  "posts": {
+    "twitter": {
+      "platform": "twitter",
+      "content": "AI Video Factory is now live!\n\nAI自动写脚本、生成幻灯片、合成视频。零人工，全自动。\n\n💡 全自动视频生成, 1080p幻灯片, AI脚本, 背景音乐\n\n100% automated. Zero human touch.\n\nhttps://github.com/ulnit/ai-video-factory",
+      "char_count": 169,
+      "max_chars": 280
+    },
+    "linkedin": {
+      "platform": "linkedin",
+      "content": "🎉 Excited to share my latest AI product: **AI Video Factory**\n\nAI自动写脚本、生成幻灯片、合成视频。零人工，全自动。\n\n**Key Features:**\n- **全自动视频生成:** AI从选题到成品，零人工干预\n- **1080p幻灯片:** Pillow渲染精美幻灯片\n- **AI脚本:** 自动研究热门话题生成脚本\n- **背景音乐:** FFmpeg自动合成背景音乐\n- **定时发布:** 每天7:00自动生成\n\n**Why I built this:**\nEveryone said you need a $200/mo server to run AI. I proved them wrong with a $35 Pi.\n\n**Tech Stack:**\n🐍 Python stdlib\n🖥️ $35 Raspberry Pi\n⏰ 24/7 Cron automation\n📦 Zero external dependencies\n\nCheck it out: https://github.com/ulnit/ai-video-factory\n\n#AI #Automation #IndieHacker #BuildInPublic #Python",
+      "char_count": 568,
+      "max_chars": 3000
+    },
+    "threads": {
+      "platform": "threads",
+      "content": "🧵 New build: AI Video Factory\n\nAI自动写脚本、生成幻灯片、合成视频。零人工，全自动。\n\nBuilt on a $35 Pi. 100% automated.\n\nhttps://github.com/ulnit/ai-video-factory",
+      "char_count": 137,
+      "max_chars": 500
+    },
+    "reddit": {
+      "platform": "reddit",
+      "content": "**Title:** I built AI Video Factory — AI自动写脚本、生成幻灯片、合成视频。零人工，全自动。\n\n**Body:**\n\nHey r/Python!\n\nI've been building AI products on a $35 Raspberry Pi that run 100% autonomously. My latest:\n\n**AI Video Factory** — AI自动写脚本、生成幻灯片、合成视频。零人工，全自动。\n\n**What it does:**\n- **全自动视频生成:** AI从选题到成品，零人工干预\n- **1080p幻灯片:** Pillow渲染精美幻灯片\n- **AI脚本:** 自动研究热门话题生成脚本\n- **背景音乐:** FFmpeg自动合成背景音乐\n- **定时发布:** 每天7:00自动生成\n\n**Why it's different:**\n- 🚫 Zero human intervention — fully automated\n- 💰 Runs on a $35 Raspberry Pi\n- 📦 Zero external dependencies\n- ⏰ 24/7 cron-scheduled\n\n**Tech:** Python + stdlib only\n\nhttps://github.com/ulnit/ai-video-factory\n\nI'm building 20 AI products this way. Happy to answer questions!\n\nEdit: Thanks for the support everyone! 🙏",
+      "char_count": 730,
+      "max_chars": 40000
+    },
+    "devto": {
+      "platform": "devto",
+      "content": "---\ntitle: \"I Built AI Video Factory on a $35 Raspberry Pi (And It Runs 24/7)\"\npublished: true\ntags: [ai, automation, python, raspberrypi]\n---\n\n# AI Video Factory: AI自动写脚本、生成幻灯片、合成视频。零人工，全自动。\n\nI built AI Video Factory to At 2AM, while I was sleeping, AI Video Factory was still working. That's the dream.\n\n## What It Does\n\n- **全自动视频生成:** AI从选题到成品，零人工干预\n- **1080p幻灯片:** Pillow渲染精美幻灯片\n- **AI脚本:** 自动研究热门话题生成脚本\n- **背景音乐:** FFmpeg自动合成背景音乐\n- **定时发布:** 每天7:00自动生成\n\n## How It Works\n\nI use Python's built-in libraries exclusively. HTTP requests, file I/O, JSON parsing — all stdlib. For media, Pillow (images) and FFmpeg (video). The entire stack fits on a 32GB SD card.\n\n## Why Raspberry Pi?\n\n- 💰 **Cost:** $35 one-time. No AWS bills.\n- ⚡ **Always on:** 24/7 cron automation\n- 🌍 **Offline-capable:** No cloud dependency\n- 🐍 **Python stdlib:** Zero external deps\n\n## The Code\n\n```python\n# The entire automation pipeline\nimport requests, json\nfrom pathlib import Path\n\ndata = requests.get(\"API_URL\").json()\nresult = process_with_ai(data)\nPath(\"output/report.md\").write_text(result)\n# Pushed to GitHub Pages automatically\n```\n\n## What's Next?\n\nAt 2AM, while I was sleeping, AI Video Factory was still working. That's the dream.\n\n---\n\n*This is part of my [20 AI Products Stack](https://ulnit.github.io/agent-store) — all running on a $35 Raspberry Pi.*\n\nhttps://github.com/ulnit/ai-video-factory",
+      "char_count": 1384,
+      "max_chars": 100000
+    }
+  }
+}
