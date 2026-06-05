@@ -59,7 +59,7 @@ Includes source code, all platform templates, and 30 days of updates.
 - [AI Landing Page Factory](https://github.com/ulnit/ai-landing-factory) — Auto landing pages
 - [AI Video Factory](https://github.com/ulnit/ai-video-factory) — Auto video content
 - [AI Agent Toolkit](https://github.com/ulnit/ai-agent-toolkit) — CLI tools
-- [Full Store](https://ulnit.github.io/agent-store) — All 20+ AI products
+- [Full Store](https://ulnit.github.io/agent-store) — All 23 AI products
 
 ## Tech Stack
 
@@ -70,4 +70,4 @@ Includes source code, all platform templates, and 30 days of updates.
 
 ---
 
-*Part of the [AI Agent Store](https://ulnit.github.io/agent-store) — 20+ AI products running on a $35 Raspberry Pi.*
+*Part of the [AI Agent Store](https://ulnit.github.io/agent-store) — 23 AI products running on a $35 Raspberry Pi.*
