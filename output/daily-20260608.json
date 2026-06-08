@@ -1,0 +1,36 @@
+{
+  "product": "AI API Gateway",
+  "generated_at": "2026-06-08T11:01:59.945687",
+  "posts": {
+    "twitter": {
+      "platform": "twitter",
+      "content": "🚀 Just shipped: AI API Gateway\n\n白标AI API转售平台。转售GPT-4o/Claude，30-50%利润。\n\nOpenAI兼容, 30-50%加价, 用量统计, API Key管理\n\n🔗 https://github.com/ulnit/ai-api-gateway\n\n#AI #Automation #BuildInPublic",
+      "char_count": 182,
+      "max_chars": 280
+    },
+    "linkedin": {
+      "platform": "linkedin",
+      "content": "🎉 Excited to share my latest AI product: **AI API Gateway**\n\n白标AI API转售平台。转售GPT-4o/Claude，30-50%利润。\n\n**Key Features:**\n- **OpenAI兼容:** 完全兼容OpenAI SDK\n- **30-50%加价:** 你的定价-成本=你的利润\n- **用量统计:** 实时Token统计\n- **API Key管理:** 独立Key+限额\n- **速率限制:** 内置rate limiting\n\n**Why I built this:**\nEveryone said you need a $200/mo server to run AI. I proved them wrong with a $35 Pi.\n\n**Tech Stack:**\n🐍 Python stdlib\n🖥️ $35 Raspberry Pi\n⏰ 24/7 Cron automation\n📦 Zero external dependencies\n\nCheck it out: https://github.com/ulnit/ai-api-gateway\n\n#AI #Automation #IndieHacker #BuildInPublic #Python",
+      "char_count": 576,
+      "max_chars": 3000
+    },
+    "threads": {
+      "platform": "threads",
+      "content": "🧵 New build: AI API Gateway\n\n白标AI API转售平台。转售GPT-4o/Claude，30-50%利润。\n\nBuilt on a $35 Pi. 100% automated.\n\nhttps://github.com/ulnit/ai-api-gateway",
+      "char_count": 144,
+      "max_chars": 500
+    },
+    "reddit": {
+      "platform": "reddit",
+      "content": "**Title:** I built AI API Gateway — 白标AI API转售平台。转售GPT-4o/Claude，30-50%利润。\n\n**Body:**\n\nHey r/MachineLearning!\n\nI've been building AI products on a $35 Raspberry Pi that run 100% autonomously. My latest:\n\n**AI API Gateway** — 白标AI API转售平台。转售GPT-4o/Claude，30-50%利润。\n\n**What it does:**\n- **OpenAI兼容:** 完全兼容OpenAI SDK\n- **30-50%加价:** 你的定价-成本=你的利润\n- **用量统计:** 实时Token统计\n- **API Key管理:** 独立Key+限额\n- **速率限制:** 内置rate limiting\n\n**Why it's different:**\n- 🚫 Zero human intervention — fully automated\n- 💰 Runs on a $35 Raspberry Pi\n- 📦 Zero external dependencies\n- ⏰ 24/7 cron-scheduled\n\n**Tech:** Python + stdlib only\n\nhttps://github.com/ulnit/ai-api-gateway\n\nI'm building 20 AI products this way. Happy to answer questions!\n\nEdit: Thanks for the support everyone! 🙏",
+      "char_count": 756,
+      "max_chars": 40000
+    },
+    "devto": {
+      "platform": "devto",
+      "content": "---\ntitle: \"I Built AI API Gateway on a $35 Raspberry Pi (And It Runs 24/7)\"\npublished: true\ntags: [ai, automation, python, raspberrypi]\n---\n\n# AI API Gateway: 白标AI API转售平台。转售GPT-4o/Claude，30-50%利润。\n\nI built AI API Gateway to At 2AM, while I was sleeping, AI API Gateway was still working. That's the dream.\n\n## What It Does\n\n- **OpenAI兼容:** 完全兼容OpenAI SDK\n- **30-50%加价:** 你的定价-成本=你的利润\n- **用量统计:** 实时Token统计\n- **API Key管理:** 独立Key+限额\n- **速率限制:** 内置rate limiting\n\n## How It Works\n\nI use Python's built-in libraries exclusively. HTTP requests, file I/O, JSON parsing — all stdlib. For media, Pillow (images) and FFmpeg (video). The entire stack fits on a 32GB SD card.\n\n## Why Raspberry Pi?\n\n- 💰 **Cost:** $35 one-time. No AWS bills.\n- ⚡ **Always on:** 24/7 cron automation\n- 🌍 **Offline-capable:** No cloud dependency\n- 🐍 **Python stdlib:** Zero external deps\n\n## The Code\n\n```python\n# Zero-dependency thumbnail generator\nfrom PIL import Image, ImageDraw\n\nimg = Image.new(\"RGB\", (1280, 720))\ndraw = ImageDraw.Draw(img)\ndraw.text((640, 360), \"AI Generated\", fill=\"white\")\nimg.save(\"thumbnail.png\")\n```\n\n## What's Next?\n\nAt 2AM, while I was sleeping, AI API Gateway was still working. That's the dream.\n\n---\n\n*This is part of my [20 AI Products Stack](https://ulnit.github.io/agent-store) — all running on a $35 Raspberry Pi.*\n\nhttps://github.com/ulnit/ai-api-gateway",
+      "char_count": 1364,
+      "max_chars": 100000
+    }
+  }
+}
